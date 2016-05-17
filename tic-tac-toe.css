@@ -1,0 +1,18 @@
+.square {
+	width: 200px;
+	height: 200px;
+}
+
+.m {
+	border: 5px solid black;
+}
+
+.lr {
+	border-left: 5px solid black;
+	border-right: 5px solid black;
+}
+
+.ud{
+	border-bottom: 5px solid black;
+	border-top: 5px solid black;
+}
