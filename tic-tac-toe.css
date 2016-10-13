@@ -1,18 +1,26 @@
 .square {
-	width: 200px;
-	height: 200px;
+	width: 150px;
+	height: 150px;
 }
 
 .m {
-	border: 5px solid black;
+	border: 3px solid black;
 }
 
 .lr {
-	border-left: 5px solid black;
-	border-right: 5px solid black;
+	border-left: 4px solid black;
+	border-right: 4px solid black;
 }
 
-.ud{
-	border-bottom: 5px solid black;
-	border-top: 5px solid black;
+.ud {
+	border-bottom: 4px solid black;
+	border-top: 4px solid black;
+}
+
+.clicked {
+  color: #39ea9e;
+  text-align: center;
+  font-size: 3em;
+  font-family: helvetica, sans-serif;
+  font-style: oblique;
 }
